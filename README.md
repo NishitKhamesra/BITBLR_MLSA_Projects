@@ -1,6 +1,6 @@
 # MLSA-PROJECT-BIT_BLR
 
-![image](https://github.com/akashgreninja/MLSA-PROJECT-BIT_BLR/assets/84433561/fc918c90-de19-4ced-9136-3264fb1ab488)
+![WhatsApp Image 2023-11-20 at 22 15 13_ff2098ad](https://github.com/NishitKhamesra/BITBLR_MLSA_Projects/assets/91678454/7f78c50c-6397-4e03-b0cc-1575466c209a)
 
 
 The problem we are trying to solve is the inefficiency and lack of sustainability in traditional job search and task management processes. Many individuals and businesses often struggle to find suitable professionals or service providers for their specific needs, resulting in wasted time, resources, and increased environmental impact. Additionally, there is a growing need to incorporate AI assistants and technologies that can perform tasks more efficiently, reducing human labor and potential environmental harm.
