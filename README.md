@@ -31,4 +31,4 @@ Procedure
 
 
    ### Kindly find the below link for the for Demo Day Presentation :
-   https://stdntpartners-my.sharepoint.com/:p:/g/personal/nishit_khamesra_studentambassadors_com/Ecqf0Zq9rLhMvqVkHttSUb8BQVqiZO70Cu346U1XEZ2W3A?e=iUdvp0
+https://stdntpartners-my.sharepoint.com/:p:/g/personal/nishit_khamesra_studentambassadors_com/Ecqf0Zq9rLhMvqVkHttSUb8BMqH1ncJW3t3bN6ULv1zHpg?e=kaP3P4
