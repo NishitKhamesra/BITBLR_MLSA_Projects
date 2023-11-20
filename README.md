@@ -28,3 +28,7 @@ Procedure
 1. Search input NLP —> Job related Keywords —> OpenAI num people required (M) —> LinkedIn 
 2. Search input NLP —> Job related Keywords —> determine suitable AI (xyz) —> Run description through OpenAI —> num people required for doing job of the AI (N) —> M-N people required + xyz AI 
 3. Time saved
+
+
+   ### Kindly find the below link for the for Demo Day Presentation :
+   https://stdntpartners-my.sharepoint.com/:p:/g/personal/nishit_khamesra_studentambassadors_com/Ecqf0Zq9rLhMvqVkHttSUb8BQVqiZO70Cu346U1XEZ2W3A?e=iUdvp0
